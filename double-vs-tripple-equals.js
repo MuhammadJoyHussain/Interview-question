@@ -1,5 +1,5 @@
 // double equals only check the value
-// tripple equals checks value + type
+// triple equals checks value + type
 
 const first = 2;
 const second = "2";
